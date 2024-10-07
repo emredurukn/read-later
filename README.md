@@ -13,6 +13,10 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [Data Engineering](#data_engineering)
   - [BigQuery](#bigquery)
   - [Airflow](#airflow)
+  - [Dataflow](#dataflow)
+  - [DuckDB](#duckdb)
+  - [dbt](#dbt)
+  - [Polars](#polars)
 
 <br>
 
@@ -21,6 +25,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [I'm shocked people still don't use ChatGPT for job search!](https://x.com/manishkhosiya/status/1781932357056164343)
 - [Use these websites to land your dream job in next 30 days](https://x.com/codebypoonam/status/1828421385905123468)
 - [Speak like a great manager](https://x.com/cooltechtipz/status/1819780629870887079)
+- [The Ultimate Guide for Making the Best Career Choices in Tech](https://dnastacio.medium.com/hierarchy-of-career-priorities-c18768d32598)
 
 <br>
 
@@ -29,6 +34,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [Free CV/resume and cover letter guidelines](https://x.com/madzadev/status/1612072861354663937)
 - [7 tips to improve your resume and stand out](https://x.com/PMDiegoGranados/status/1582115284269211648)
 - [Remove these verbs from your CV](https://x.com/simon_ingari/status/1826478886470697448)
+- [The resume that got a software engineer a $300,000 job at Google](https://levelup.gitconnected.com/the-resume-that-got-a-software-engineer-a-300-000-job-at-google-8c5a1ecff40f)
 
 <br>
 
@@ -83,3 +89,28 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [A Comprehensive Guide to Apache Airflow](https://blog.thecloudside.com/a-comprehensive-guide-to-apache-airflow-e8df3d2810c4)
 - [Top 10 Apache Airflow Best Practices for Data Engineers](https://medium.com/@Nelsonalfonso/top-10-apache-airflow-best-practices-for-data-engineers-f72de2b6175d)
 - [Cross-DAG Dependencies in Apache Airflow: A Comprehensive Guide](https://medium.com/datamindedbe/cross-dag-dependencies-in-apache-airflow-a-comprehensive-guide-88cbc0bc68d0)
+
+### Dataflow
+
+- [A Guide to Custom Dataflow Pipeline for BigQuery](https://medium.com/@nerukulla0719/custom-dataflow-pipeline-to-read-events-from-pub-sub-and-write-to-multiple-destination-tables-in-48dbf221f14b)
+- [Streamline Your Big Data Workflows with GCP Dataflow](https://medium.com/illumination/streamline-your-big-data-workflows-with-gcp-dataflow-from-pipeline-design-to-execution-da43b38d610c)
+- [Python, Beam and Google Dataflow](https://cassio-bolba.medium.com/python-beam-and-google-dataflow-from-batch-to-streaming-in-a-few-lines-86e8b09f062f)
+- [Apache Beam, Python and GCP: Deploying a Batch Pipeline on Google Dataflow](https://cassio-bolba.medium.com/apache-beam-python-and-gcp-deploying-a-batch-pipeline-on-google-dataflow-e723acb7d6d3)
+
+### DuckDB
+
+- [DuckDB: The Rising Star in the Big Data Landscape](https://mihaibojin.medium.com/duckdb-the-big-data-rising-star-71916f953f18)
+- [How DuckDB can be up to 1000x more efficient than BigQuery?](https://medium.com/@kayrnt/how-duckdb-can-be-up-to-1000x-more-efficient-than-bigquery-36bab2405259)
+
+### dbt
+
+- [From Zero to dbt: How to Analyze and Build Data Models from Spotify’s Million Playlist Data](https://medium.com/inthepipeline/from-zero-to-dbt-how-to-analyze-and-build-data-models-from-spotifys-million-playlist-data-241c3d8c9b5d)
+- [Reducing BigQuery Costs by 100–200x with dbt Incremental Models](https://blog.stackademic.com/reducing-bigquery-costs-by-100-200x-with-dbt-incremental-models-c4375b945b69)
+- [Why dbt is the future of data engineering?](https://medium.com/@blosher13/why-dbt-could-be-the-future-of-data-engineering-79ef7094080a)
+
+### Polars
+
+- [Why Polars Destroy Pandas in All Possible Ways for Data Scientists?](https://pub.towardsai.net/why-polars-destroys-pandas-in-all-possible-ways-for-data-scientists-cea244fedd53)
+- [The 3 Reasons Why I Have Permanently Switched From Pandas To Polars](https://towardsdatascience.com/the-3-reasons-why-i-have-permanently-switched-from-pandas-to-polars-b41d013a787b)
+- [Say Goodbye to Pandas: Why You Should Switch to Polars for Fast Data Manipulation in Python](https://viv1kv.medium.com/say-goodbye-to-pandas-why-you-should-switch-to-polars-for-fast-data-manipulation-in-python-df00dcab788f)
+- [Why Is Polars All The Rage](https://medium.com/@SeattleDataGuy/why-is-polars-all-the-rage-c9216894894d)
