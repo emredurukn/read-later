@@ -12,7 +12,10 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [Software Development](#software_development)
 - [Data Engineering](#data_engineering)
   - [BigQuery](#bigquery)
+  - [SQL](#sql)
+  - [Python](#python)
   - [Airflow](#airflow)
+  - [Spark](#spark)
   - [Dataflow](#dataflow)
   - [DuckDB](#duckdb)
   - [dbt](#dbt)
@@ -42,6 +45,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 
 - [Here are 10 things that will make you stand out in any interview](https://x.com/theleoalexandru/status/1601227466571292672)
 - [Can you tell me about yourself?](https://x.com/maybeshalinii/status/1769223301099074035)
+- [How to Nail Job Interviews](https://singhdivyanshu917.medium.com/how-to-nail-job-interviews-880f23f4213)
 
 <br>
 
@@ -74,6 +78,8 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 
 - [What Does it Take to Get into Data Engineering in 2024?](https://towardsdatascience.com/what-does-it-take-to-get-into-data-engineering-in-2024-5efb9c41865b)
 - [My Predictions for Data Engineering in 2024](https://medium.com/art-of-data-engineering/my-predictions-for-data-engineering-in-2024-0723fa7a6e04)
+- [How to Become a Data Engineer](https://towardsdatascience.com/how-to-become-a-data-engineer-c0319cb226c2)
+- [12 Must-Have Skills to become a Data Engineer](https://medium.datadriveninvestor.com/12-must-have-skills-to-become-a-data-engineer-35b100dbee0a)
 
 ### BigQuery
 
@@ -83,12 +89,32 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [A Guide to Functional Data Engineering in BigQuery](https://medium.com/decode-data/a-guide-to-functional-data-engineering-in-bigquery-9c0065d76749)
 - [BigQuery Data Warehouse Best Practices](https://phoenix-analytics.medium.com/bigquery-data-warehouse-best-practices-48550a91a83c)
 
+### SQL
+
+- [Important SQL Topics for Data Engineers](https://medium.com/art-of-data-engineering/important-sql-topics-for-data-engineers-928f86b62cc4)
+- [Data Engineering: Advanced SQL Concepts](https://medium.com/@mohammad.atif1987/data-engineering-advanced-sql-concepts-a32865659783)
+- [SQL Query Optimization Tips I Regret Not Knowing Earlier](https://medium.com/art-of-data-engineering/sql-query-optimization-tips-i-regret-not-knowing-earlier-a6de8323c04b)
+
+### Python
+
+- [10 Ways to Write Better Python Codes](https://levelup.gitconnected.com/10-ways-to-write-better-python-codes-55fc862ab0ef)
+- [7 Python Function Things I Regret Not Knowing Earlier](https://levelup.gitconnected.com/7-python-function-things-i-regret-not-knowing-earlier-989b6a89d802)
+- [9 Python Anti Patterns That I Will Never Apply in Production](https://levelup.gitconnected.com/9-python-anti-patterns-that-i-will-never-apply-in-production-dd6f3d1e4b42)
+- [Python Concurrency — A Brain-Friendly Guide for Data Professionals](https://towardsdatascience.com/python-concurrency-a-brain-friendly-guide-for-data-professionals-a6215a3e9e26)
+- [7 Things I Should’ve Learnt Much Earlier For Python Functions](https://levelup.gitconnected.com/7-things-i-shouldve-learnt-much-earlier-for-python-functions-69d1108f0f62)
+
 ### Airflow
 
 - [Mastering Apache Airflow: A Comprehensive Guide for Data Engineers](https://medium.com/@hkabhi916/mastering-apache-airflow-a-comprehensive-guide-for-data-engineers-8e91c296ab0e)
 - [A Comprehensive Guide to Apache Airflow](https://blog.thecloudside.com/a-comprehensive-guide-to-apache-airflow-e8df3d2810c4)
 - [Top 10 Apache Airflow Best Practices for Data Engineers](https://medium.com/@Nelsonalfonso/top-10-apache-airflow-best-practices-for-data-engineers-f72de2b6175d)
 - [Cross-DAG Dependencies in Apache Airflow: A Comprehensive Guide](https://medium.com/datamindedbe/cross-dag-dependencies-in-apache-airflow-a-comprehensive-guide-88cbc0bc68d0)
+
+### Spark
+
+- [Understanding Apache Spark: A Deep Dive into Big Data Processing](https://medium.com/art-of-data-engineering/understanding-apache-spark-a-deep-dive-into-big-data-processing-7f3e86e3f921)
+- [The Most discussed Spark Questions in 2024](https://medium.com/towards-data-engineering/the-most-discussed-spark-questions-in-2024-8aeb5bcb82be)
+- [PySpark for Data Engineering Beginners: An Extensive Guide](https://pawankg.medium.com/pyspark-for-data-engineering-beginners-an-extensive-guide-ce29520a78ca)
 
 ### Dataflow
 
