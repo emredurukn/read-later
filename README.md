@@ -20,6 +20,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
   - [DuckDB](#duckdb)
   - [dbt](#dbt)
   - [Polars](#polars)
+  - [Apache Iceberg](#apache_iceberg)
 
 <br>
 
@@ -80,6 +81,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [My Predictions for Data Engineering in 2024](https://medium.com/art-of-data-engineering/my-predictions-for-data-engineering-in-2024-0723fa7a6e04)
 - [How to Become a Data Engineer](https://towardsdatascience.com/how-to-become-a-data-engineer-c0319cb226c2)
 - [12 Must-Have Skills to become a Data Engineer](https://medium.datadriveninvestor.com/12-must-have-skills-to-become-a-data-engineer-35b100dbee0a)
+- [Becoming a Data Engineering Force Multiplier](https://seattledataguy.substack.com/p/becoming-a-data-engineering-force)
 
 ### BigQuery
 
@@ -88,6 +90,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [A Practical Guide to BigQuery Cost Optimization](https://datatovalue.blog/a-practical-guide-to-bigquery-cost-optimization-f8d78c94bbe2)
 - [A Guide to Functional Data Engineering in BigQuery](https://medium.com/decode-data/a-guide-to-functional-data-engineering-in-bigquery-9c0065d76749)
 - [BigQuery Data Warehouse Best Practices](https://phoenix-analytics.medium.com/bigquery-data-warehouse-best-practices-48550a91a83c)
+- [A Definitive Guide to Using BigQuery Efficiently](https://towardsdatascience.com/burn-data-rather-than-money-with-bigquery-the-definitive-guide-1b50a9fdf096)
 
 ### SQL
 
@@ -127,6 +130,7 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 
 - [DuckDB: The Rising Star in the Big Data Landscape](https://mihaibojin.medium.com/duckdb-the-big-data-rising-star-71916f953f18)
 - [How DuckDB can be up to 1000x more efficient than BigQuery?](https://medium.com/@kayrnt/how-duckdb-can-be-up-to-1000x-more-efficient-than-bigquery-36bab2405259)
+- [DuckDB Beyond the Hype](https://alirezasadeghi1.medium.com/duckdb-beyond-the-hype-8b1e59360cf3)
 
 ### dbt
 
@@ -140,3 +144,9 @@ A list of posts I've saved to read later. If you want to support my work, you ca
 - [The 3 Reasons Why I Have Permanently Switched From Pandas To Polars](https://towardsdatascience.com/the-3-reasons-why-i-have-permanently-switched-from-pandas-to-polars-b41d013a787b)
 - [Say Goodbye to Pandas: Why You Should Switch to Polars for Fast Data Manipulation in Python](https://viv1kv.medium.com/say-goodbye-to-pandas-why-you-should-switch-to-polars-for-fast-data-manipulation-in-python-df00dcab788f)
 - [Why Is Polars All The Rage](https://medium.com/@SeattleDataGuy/why-is-polars-all-the-rage-c9216894894d)
+
+### Apache_Iceberg
+
+- [Introduction to Apache Iceberg](https://towardsdatascience.com/introduction-to-apache-iceberg-ef0358634c1b)
+- [Why Apache Iceberg is heralding a new era of change in Data Engineering](https://medium.com/orchestras-data-release-pipeline-blog/why-apache-iceberg-is-heralding-a-new-era-of-change-in-data-engineering-e0905d1ce119)
+- [Why Apache Iceberg will accelerate competition for compute engines](https://medium.com/@ansam.yousry/why-apache-iceberg-will-accelerate-competition-for-compute-engines-4f26b2129459)
